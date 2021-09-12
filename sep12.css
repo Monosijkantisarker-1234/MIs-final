@@ -1,0 +1,25 @@
+label
+{
+    color:#d62c4e;
+    margin-left:400px;
+    margin-top:140px;
+    display:inline-block;
+}
+input
+{
+    margin-left:400px;
+    width:250px;
+}
+button
+{
+    background-color:#2f3ae3;
+    border:2px solid #2f3ae3;
+    color:white;
+    height:30px;
+    margin-left:400px;
+}
+p
+{
+    color:#d62c4e;
+    margin-left:400px;
+}
